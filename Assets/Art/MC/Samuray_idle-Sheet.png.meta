@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 9c376a314478b3e42b7429aae29cd607
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9156510090860923549
+    second: Samuray_idle-Sheet_0
+  - first:
+      213: -6321252153792607040
+    second: Samuray_idle-Sheet_1
+  - first:
+      213: -3137227273017068488
+    second: Samuray_idle-Sheet_2
+  - first:
+      213: 7191004730698573852
+    second: Samuray_idle-Sheet_3
+  - first:
+      213: -9126613356768900928
+    second: Samuray_idle-Sheet_4
+  - first:
+      213: 2705052623126517259
+    second: Samuray_idle-Sheet_5
+  - first:
+      213: -3415103225925634300
+    second: Samuray_idle-Sheet_6
+  - first:
+      213: -1310516236179893695
+    second: Samuray_idle-Sheet_7
+  - first:
+      213: 7479580826340070767
+    second: Samuray_idle-Sheet_8
+  - first:
+      213: -347433377638575671
+    second: Samuray_idle-Sheet_9
+  - first:
+      213: 6463551403569161074
+    second: Samuray_idle-Sheet_10
+  - first:
+      213: 5992890566746487539
+    second: Samuray_idle-Sheet_11
+  - first:
+      213: -6555995177210321503
+    second: Samuray_idle-Sheet_12
+  - first:
+      213: -5809313810410507410
+    second: Samuray_idle-Sheet_13
+  - first:
+      213: -2367987322782892545
+    second: Samuray_idle-Sheet_14
+  - first:
+      213: 571732164671119457
+    second: Samuray_idle-Sheet_15
+  - first:
+      213: -9059336183890081731
+    second: Samuray_idle-Sheet_16
+  - first:
+      213: 8503476216842530923
+    second: Samuray_idle-Sheet_17
+  - first:
+      213: 6428611427155416367
+    second: Samuray_idle-Sheet_18
+  - first:
+      213: -691280509845167410
+    second: Samuray_idle-Sheet_19
+  - first:
+      213: 7916855533548602817
+    second: Samuray_idle-Sheet_20
+  - first:
+      213: 1639809614252188129
+    second: Samuray_idle-Sheet_21
+  - first:
+      213: 2080439656637574136
+    second: Samuray_idle-Sheet_22
+  - first:
+      213: -8272007994494190794
+    second: Samuray_idle-Sheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a8b041a65721f70800000000000000
+      internalID: 9156510090860923549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 456
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccc48558a66648a0800000000000000
+      internalID: -6321252153792607040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 456
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834762cba645674d0800000000000000
+      internalID: -3137227273017068488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 456
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c182177f3b49bc360800000000000000
+      internalID: 7191004730698573852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 456
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c84473c181c75180800000000000000
+      internalID: -9126613356768900928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d13c57074a8520800000000000000
+      internalID: 2705052623126517259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 342
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4077963c5bd1b90d0800000000000000
+      internalID: -3415103225925634300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 342
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1429d163d6c10dde0800000000000000
+      internalID: -1310516236179893695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 342
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6592de022fccc760800000000000000
+      internalID: 7479580826340070767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 342
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c11dbe0f2bad2bf0800000000000000
+      internalID: -347433377638575671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273a73591c523b950800000000000000
+      internalID: 6463551403569161074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 228
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fab6b008360b2350800000000000000
+      internalID: 5992890566746487539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 228
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a564391f1d6405a0800000000000000
+      internalID: -6555995177210321503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 228
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63f5b55edb216fa0800000000000000
+      internalID: -5809313810410507410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 228
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdb5e87318332fd0800000000000000
+      internalID: -2367987322782892545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16023e5ef533fe700800000000000000
+      internalID: 571732164671119457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 114
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38836a3db5c64280800000000000000
+      internalID: -9059336183890081731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 114
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60b1ecd09a620670800000000000000
+      internalID: 8503476216842530923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 114
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f259d926804073950800000000000000
+      internalID: 6428611427155416367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 114
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec22782f9041866f0800000000000000
+      internalID: -691280509845167410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5004799225edd60800000000000000
+      internalID: 7916855533548602817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1a5c4f726c1c610800000000000000
+      internalID: 1639809614252188129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fba48658d43fdc10800000000000000
+      internalID: 2080439656637574136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Samuray_idle-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b7bf45e8ce33d80800000000000000
+      internalID: -8272007994494190794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b832088011452f642b8b7fe3ced4755f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Samuray_idle-Sheet_0: 9156510090860923549
+      Samuray_idle-Sheet_1: -6321252153792607040
+      Samuray_idle-Sheet_10: 6463551403569161074
+      Samuray_idle-Sheet_11: 5992890566746487539
+      Samuray_idle-Sheet_12: -6555995177210321503
+      Samuray_idle-Sheet_13: -5809313810410507410
+      Samuray_idle-Sheet_14: -2367987322782892545
+      Samuray_idle-Sheet_15: 571732164671119457
+      Samuray_idle-Sheet_16: -9059336183890081731
+      Samuray_idle-Sheet_17: 8503476216842530923
+      Samuray_idle-Sheet_18: 6428611427155416367
+      Samuray_idle-Sheet_19: -691280509845167410
+      Samuray_idle-Sheet_2: -3137227273017068488
+      Samuray_idle-Sheet_20: 7916855533548602817
+      Samuray_idle-Sheet_21: 1639809614252188129
+      Samuray_idle-Sheet_22: 2080439656637574136
+      Samuray_idle-Sheet_23: -8272007994494190794
+      Samuray_idle-Sheet_3: 7191004730698573852
+      Samuray_idle-Sheet_4: -9126613356768900928
+      Samuray_idle-Sheet_5: 2705052623126517259
+      Samuray_idle-Sheet_6: -3415103225925634300
+      Samuray_idle-Sheet_7: -1310516236179893695
+      Samuray_idle-Sheet_8: 7479580826340070767
+      Samuray_idle-Sheet_9: -347433377638575671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
